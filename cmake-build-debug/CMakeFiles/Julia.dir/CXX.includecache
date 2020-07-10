@@ -1,0 +1,16 @@
+#IncludeRegexLine: ^[ 	]*[#%][ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+/Users/lukasbrasseleur/Desktop/Info/c++/Julia/main.cpp
+iostream
+-
+cmath
+-
+EasyBMP.h
+/Users/lukasbrasseleur/Desktop/Info/c++/Julia/EasyBMP.h
+
